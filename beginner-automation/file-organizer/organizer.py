@@ -1,7 +1,7 @@
 import os
 import shutil
 
-folder_path = r"C:\Users\saras\Downloads"
+folder_path = r"C:\Users\user\Downloads"
 
 file_types = {
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
