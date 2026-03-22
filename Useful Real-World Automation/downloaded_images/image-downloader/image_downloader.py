@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
 # Website URL
-url = "https://www.deccanchronicle.com/southern-states/tamil-nadu/tamil-nadu-actor-vijay-to-unveil-party-flag-song-today-1818051"
+url = "https://news.ycombinator.com"
 
 # Folder to save images
 folder = "downloaded_images"
