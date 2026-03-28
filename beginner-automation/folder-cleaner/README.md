@@ -5,7 +5,7 @@ A simple Python automation script to organize and clean up files in a folder.
 ## Features
 
 - Automatically sorts files by type into subfolders
-- Deletes empty folders
+- Deletes the empty folders
 - Customizable file extensions and folder names
 
 ## Usage
